@@ -14,6 +14,14 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+#bun
+.bun/
+.bun-bin/
+.bun-debug/
+.bun-node_modules/
+.bun-vfs/
+bun.lockb
+
 # OS
 .DS_Store
 
